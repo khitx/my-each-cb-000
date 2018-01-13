@@ -7,4 +7,4 @@ def my_each(array)
   array
 end
 
-my_each([]) { |i| i}
+my_each() { |i| i}
