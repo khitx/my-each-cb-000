@@ -6,4 +6,4 @@ def my_each(array)
   end
 end
 
-my_each(words) { |i| i}
+my_each(array) { |i| i}
