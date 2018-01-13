@@ -6,4 +6,4 @@ def my_each(array)
   end
 end
 
-my_each() { |i| i}
+my_each(['hi', 'hello', 'bye', 'goodbye']) { |i| i}
