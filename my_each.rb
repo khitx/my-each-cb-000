@@ -7,4 +7,4 @@ def my_each(array)
   array
 end
 
-my_each(['hi', 'hello', 'bye', 'goodbye']) { |i| puts i}
+my_each(['hi', 'hello', 'bye', 'goodbye']) { |i| i}
