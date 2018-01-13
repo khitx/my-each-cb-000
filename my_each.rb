@@ -6,4 +6,4 @@ def my_each(array)
   end
 end
 
-my_each(collection) { |i| i}
+my_each([1,2,3,4]) { |i| i}
